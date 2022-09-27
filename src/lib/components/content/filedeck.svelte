@@ -41,9 +41,9 @@
   });
 </script>
 
-<!-- <div class="accordion accordion-flush" id="fileAccordion">
+<div class="accordion accordion-flush" id="fileAccordion">
   <div class="accordion-item">
-    <h5 class="accordion-header" id="flush-headingOne">The Alliance File</h5>
+    <h5 class="accordion-header" id="flush-headingOne">Preset File</h5>
     <div
       id="flush-collapseOne"
       class="accordion-collapse collapse"
@@ -60,7 +60,7 @@
         {/if}
       </div>
     </div>
-  </div> -->
+  </div>
   <div class="accordion-item">
     <h5 class="accordion-header" id="flush-headingTwo">Client Files</h5>
     <div
