@@ -5,12 +5,12 @@
 <div class="header">
   <p>{text}</p>
   <div style="position:absolute;left:20px">
-    <img
+    <!-- <img
       loading="lazy"
       width="310px"
       height="82px"
       src="https://the-alliance.org/wp-content/uploads/2021/10/MicrosoftTeams-image-19.png"
-    />
+    /> -->
   </div>
 </div>
 
